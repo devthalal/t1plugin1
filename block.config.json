@@ -1,0 +1,16 @@
+{
+  "name": "t1Plugin",
+  "type": "package",
+  "blockId": "sd8tIKrkqtC1MJCEtx60a",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_t1Plugin"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
